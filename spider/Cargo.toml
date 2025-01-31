@@ -70,6 +70,7 @@ h2 = "0.4"
 tower = { version = "0.5", features = [ "limit" ]}
 pin-project-lite = "0.2"
 sonic-rs = { version = "0.3", optional = true }
+scraper = "0.22.0"
 
 [dependencies.spider_chrome]
 version = "2"
